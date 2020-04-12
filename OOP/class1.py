@@ -4,6 +4,8 @@ class Point:
     __x = 1
     __y = 1 
 
+
+
     # Метод
     def setCoords(self, x, y): #первым параметром всегда явлется ссылка экземпляр
         self.x = x
